@@ -1,3 +1,5 @@
 # do400-git-lab
 
-thist it an example project repository for the DO400 course.
+this it an example project repository for the DO400 course.
+this repository is only a test.
+this repository is only a test.
